@@ -1,5 +1,4 @@
 # Social_Company_Blog
-____
 
 ## You need to initailize a create python virtual environment:
     - conda create -n company-blog python=3
